@@ -28,3 +28,7 @@ and any other libraries you see fit.
 ## Evaluation
 
 Your code will be evaluated more on the quality than on completing the scope.
+
+## Delivery
+
+Please submit a link to your personal git repo with your commits.
