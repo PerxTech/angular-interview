@@ -20,7 +20,7 @@ This test should take about 1 hour
 1. Angular CLI
 2. Angular Material
 3. SCSS
-4. [Example json](example.md) as a payload,
+4. [Example json](example.json) as a payload,
 5. Lorem Ipsum
 
 and any other libraries you see fit.
